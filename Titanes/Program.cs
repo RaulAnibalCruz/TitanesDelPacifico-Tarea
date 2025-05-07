@@ -1,2 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+class Kaijus {
+    public string Nombre;
+    public double Energia;
+    public double Dureza;
+    public double Vida; 
+    private int categoria;
+    public string  Habilidad;
+    
+
+
+
+
+
+}
