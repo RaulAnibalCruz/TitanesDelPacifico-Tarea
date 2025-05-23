@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\TitanesDelPacifico-Tarea\\Titanes\\Titanes.csproj": {}
+    "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\TitanesDelPacifico-Tarea\\Main\\Main.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\TitanesDelPacifico-Tarea\\Titanes\\Titanes.csproj": {
+    "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\TitanesDelPacifico-Tarea\\Main\\Main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\TitanesDelPacifico-Tarea\\Titanes\\Titanes.csproj",
-        "projectName": "Titanes",
-        "projectPath": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\TitanesDelPacifico-Tarea\\Titanes\\Titanes.csproj",
+        "projectUniqueName": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\TitanesDelPacifico-Tarea\\Main\\Main.csproj",
+        "projectName": "Main",
+        "projectPath": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\TitanesDelPacifico-Tarea\\Main\\Main.csproj",
         "packagesPath": "C:\\Users\\Lab15-PC01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\TitanesDelPacifico-Tarea\\Titanes\\obj\\",
+        "outputPath": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\TitanesDelPacifico-Tarea\\Main\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
